@@ -2,3 +2,7 @@ line1 : Hello
 line3 : temp note
 line4: hi hello
 line2 : good,how are you
+line5 : bye
+line6 : its sunday 
+line7 : i wii be busy tommorrow
+line8 : bye take care
